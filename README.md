@@ -11,7 +11,7 @@
 
 In this code along, we'll be building a simple shopping list application that will allow a user to view an existing shopping list.
 
-Clone down this repo and run `npm install` to get started.
+Clone down this repo and run `npm install` to get started.   
 
 ### Step 1: Setting Up The Store
 
